@@ -1,0 +1,13 @@
+# Generated files
+**/ant-build/
+**/ant-gen/
+
+# Mac OS default file
+.DS_Store
+
+# IntelliJ specific files
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+
+# NPM installed modules 
+node_modules/
