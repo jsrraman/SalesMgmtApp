@@ -1,0 +1,6 @@
+{
+  "name": "SalesMgmtApp",
+  "devDependencies": {
+    "cordova" : "4.3"
+  }
+}
